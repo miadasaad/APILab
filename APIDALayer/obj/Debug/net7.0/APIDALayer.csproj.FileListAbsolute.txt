@@ -1,0 +1,14 @@
+C:\Users\ITI\source\repos\APIDALayer\bin\Debug\net7.0\APIDALayer.deps.json
+C:\Users\ITI\source\repos\APIDALayer\bin\Debug\net7.0\APIDALayer.runtimeconfig.json
+C:\Users\ITI\source\repos\APIDALayer\bin\Debug\net7.0\APIDALayer.dll
+C:\Users\ITI\source\repos\APIDALayer\bin\Debug\net7.0\APIDALayer.pdb
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.csproj.AssemblyReference.cache
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.AssemblyInfoInputs.cache
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.AssemblyInfo.cs
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.dll
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\refint\APIDALayer.dll
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.pdb
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\APIDALayer.genruntimeconfig.cache
+C:\Users\ITI\source\repos\APIDALayer\obj\Debug\net7.0\ref\APIDALayer.dll

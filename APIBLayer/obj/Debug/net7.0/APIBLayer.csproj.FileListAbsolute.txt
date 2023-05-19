@@ -1,0 +1,15 @@
+C:\Users\ITI\source\repos\APIBLayer\bin\Debug\net7.0\APIBLayer.deps.json
+C:\Users\ITI\source\repos\APIBLayer\bin\Debug\net7.0\APIBLayer.dll
+C:\Users\ITI\source\repos\APIBLayer\bin\Debug\net7.0\APIBLayer.pdb
+C:\Users\ITI\source\repos\APIBLayer\bin\Debug\net7.0\APIDALayer.dll
+C:\Users\ITI\source\repos\APIBLayer\bin\Debug\net7.0\APIDALayer.pdb
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.csproj.AssemblyReference.cache
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.AssemblyInfoInputs.cache
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.AssemblyInfo.cs
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.csproj.CoreCompileInputs.cache
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.csproj.CopyComplete
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.dll
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\refint\APIBLayer.dll
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\APIBLayer.pdb
+C:\Users\ITI\source\repos\APIBLayer\obj\Debug\net7.0\ref\APIBLayer.dll
